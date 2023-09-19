@@ -78,25 +78,3 @@ input:focus,
 p {
   font-size: 2rem;
 }
-
-.spinner {
-  text-align: center;
-  margin: 5rem auto;
-}
-
-.spinner svg {
-  fill: #f38e82;
-  width: 6rem;
-  height: 6rem;
-  animation: 2s linear infinite rotate;
-}
-
-@keyframes rotate {
-  0% {
-    transform: rotate(0);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
-}
