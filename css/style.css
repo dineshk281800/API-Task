@@ -26,6 +26,7 @@ body {
   background: #fff;
   padding: 5rem;
   border-radius: 1rem;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 h1 {
   margin-bottom: 2rem;
@@ -64,6 +65,7 @@ input {
 .btn-1:hover,
 .btn-2:hover {
   background: #2bcbda;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
 input:focus,
